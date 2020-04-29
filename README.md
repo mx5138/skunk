@@ -1,2 +1,2 @@
 # skunk
-skunk work
+skunk application:
